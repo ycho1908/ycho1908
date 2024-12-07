@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 My name is Evelyn Cho, an undergraduate student at University of California, Los Angeles (UCLA) studying Computer Science.
 
-💻 My interests: AI and Machine Learning, Web Dev, Cybersecurity (prior experience with Linux)
+:books: My interests: AI and Machine Learning, Web Dev, Cybersecurity (prior experience with Linux)
 
-Languages: C++, Java, Python, ReactJS, HTML/CSS
+💻 Languages: C++, Java, Python, ReactJS, HTML/CSS
 
 :e-mail: Feel free to reach out to me on my email: yehyeoncho@gmail.com.
