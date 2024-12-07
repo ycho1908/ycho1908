@@ -21,3 +21,4 @@ My name is Evelyn Cho, an undergraduate student at University of California, Los
 💻 Languages: C++, Java, Python, ReactJS, HTML/CSS
 
 :e-mail: Feel free to reach out to me on my email: yehyeoncho@gmail.com.
+💬 Check out my linkedin: [https://www.linkedin.com/in/yehyeon-cho/]
