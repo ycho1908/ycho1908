@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Evelyn Cho, an undergraduate student at University of California, Los Angeles (UCLA) studying Computer Science.
+
+💻 My interests: AI and Machine Learning, Web Dev
+
+💬 Feel free to reach out to me on my email: yehyeoncho@gmail.com.
